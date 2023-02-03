@@ -1,6 +1,6 @@
 #  Vieo to plymouth theme
 
-script that permits to reproduce a video at boot with plymout
+script that permits to reproduce a video at boot with plymout (example here)[https://github.com/SimoriccITA/plymouth-i_use_arch_btw]
 
 it takes 3 argument:
 1. input video filename
