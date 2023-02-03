@@ -1,4 +1,4 @@
-#  Vieo to plymouth theme
+#  Video to plymouth theme
 
 script that permits to reproduce a video at boot with plymout ([example here](https://github.com/SimoriccITA/plymouth-i_use_arch_btw))
 
