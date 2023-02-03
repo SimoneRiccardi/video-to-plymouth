@@ -9,7 +9,7 @@ dependences:
 
 the script takes 3 argument:
 1. input video filename
-2. resolution of the screen
+2. resolution of the screen that have to show at boot the video, WIDTH_PIXELSxHEIGHT_PIXELS  format (example ```1920x1080```)
 3. (optional: destination folder of the plymouth theme, by default is the plymouth themes folder, if you want have the theme where you execte the script leave the default)
 
 the theme'll have the same name of the video (excluding the extention), so to select it use
